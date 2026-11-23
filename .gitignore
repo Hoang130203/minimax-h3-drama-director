@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.mp4
+*.mkv
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.safetensors
+*.pth
+.ipynb_checkpoints/
+.env
+*.log

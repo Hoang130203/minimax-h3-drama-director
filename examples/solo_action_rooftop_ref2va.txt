@@ -1,0 +1,19 @@
+subject_definitions:
+<Subject 1> is the young East Asian woman in <Picture 1>, preserving her exact delicate facial structure, bright dark eyes, gentle eyebrows, fair natural skin, and long wavy dark-chestnut hair, now dressed in a sleek dark-charcoal water-repellent belted trench coat over a crisp white shirt and black trousers.
+
+summary:
+[reference generation] Live-action 35mm cinema rooftop action showcase: in pouring night rain on a neon-lit urban rooftop, <Subject 1> catches a spinning umbrella mid-air, snaps it open flinging a glowing backlit spray of rain droplets in an orbital arc shot while pivoting into an agile martial stance, then cuts to a rain-streaked close-up where she delivers a cool confident line straight into the camera.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2]): partially_preserved - her exact face, likeness, bright eyes, and long wavy dark hair from <Picture 1> are strictly preserved with realistic wet skin texture, while her studio outfit is transferred to a rain-soaked dark-charcoal cinematic trench coat.
+
+detailed_description:
+The target video is live-action theatrical 35mm cinema photography shot on ARRI Alexa Mini LF with anamorphic lenses, natural human skin pores, realistic wet fabric physics, rich amber and teal neon city bokeh reflections on wet concrete, and authentic film grain (strictly real-life live-action film, zero anime or CGI look).
+[Shot 1] On a rain-drenched urban rooftop at night with glowing distant skyscraper lights reflected in rippled puddles, a sweeping medium-wide arc shot orbits smoothly around <Subject 1> with medium amplitude at normal speed. Pouring rain glistens across her wet dark hair and sleek charcoal trench coat as she reaches smoothly upward with her right hand to catch a folding umbrella tossed into frame, snaps the canopy sharply open in one fluid martial flourish that flings a dramatic spiral arc of backlit silver water droplets through the night air, and pivots seamlessly onto her front foot into a poised agile martial-arts stance with rain cascading off the umbrella edge. She stays silent during the stunt.
+[Shot 2] At 00:03.300, the camera cuts to an intimate shallow-depth-of-field close-up tracking smoothly inward with small amplitude at slow speed on <Subject 1>. Wet dark hair strands cling naturally to her fair cheek as raindrops glisten on her eyelashes and umbrella canopy overhead; she smoothly rests the umbrella handle over her shoulder, turns her bright composed eyes squarely into the camera lens, and <Subject 1> (S1) delivers with cool effortless poise in a clear natural young female voice: <d>[Chinese] 下一个，谁来？</d> Immediately after speaking, her lips close into a faint captivating confident smirk as warm neon rim light shimmers on the falling rain around her.
+
+overall_soundscape:
+Steady heavy night rain patters realistically against wet rooftop concrete and taut umbrella fabric. A crisp whoosh and sharp metallic spring snap ring out as the umbrella opens and sprays droplets, followed by a soft pivoting boot scrape on wet puddles and a low distant rumble of thunder across the rainy city skyline.
+
+non_diegetic_music:
+A restrained modern cinematic low-string tension pulse at a measured tempo swells subtly beneath the rain and fades cleanly on the closing smirk.
